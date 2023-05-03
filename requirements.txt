@@ -4,3 +4,5 @@ pandas
 scipy
 mne
 scikit-learn
+seaborn
+fpdf
